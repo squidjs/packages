@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-squid-plugins@^0.1.0:
+squid-packages@^0.1.0:
   version "0.1.0"
-  resolved "https://registry.yarnpkg.com/squid-plugins/-/squid-plugins-0.1.0.tgz#868f056553f6fe079c8da6907291088949a9e1c4"
-  integrity sha512-Hq128Jw+uQ1KcPOj4LXW42wYHWgsCi2NJ6nVUDYv68QW7vpWtieml22AeQgkfpavJNfmD2tcqB7DJXIjf+kMNw==
+  resolved "https://registry.yarnpkg.com/squid-packages/-/squid-packages-0.1.0.tgz#24555e6c1dac41a426f025864e08d4278621cae0"
+  integrity sha512-ks+jTE0Qs6vq4xjLpDZRaWllpk2bCj7QB0lLUObSIe9MjG8zBqIBwi/8Ur7lnTeE9xPYtant452GxoaEzicgvA==
 
 typescript@^4.2.3:
   version "4.2.3"

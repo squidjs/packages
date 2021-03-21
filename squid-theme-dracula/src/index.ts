@@ -1,4 +1,4 @@
-import SquidPlugin from 'squid-plugins';
+import SquidPlugin from 'squid-packages';
 
 const DraculaPlugin: SquidPlugin = {
 

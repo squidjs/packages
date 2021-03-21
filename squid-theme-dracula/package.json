@@ -1,17 +1,16 @@
 {
   "name": "squid-theme-dracula",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "dist": "tsc",
     "watch": "tsc -w"
   },
   "keywords": [
-    "squid-theme",
-    "theme",
-    "squid"
+    "squid-package",
+    "theme"
   ],
   "devDependencies": {
-    "squid-plugins": "^0.1.0",
+    "squid-packages": "^0.1.0",
     "typescript": "^4.2.3"
   }
 }
