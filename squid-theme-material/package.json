@@ -7,7 +7,8 @@
   },
   "keywords": [
     "squid-package",
-    "squid-theme"
+    "squid-theme",
+    "theme"
   ],
   "devDependencies": {
     "squid-packages": "^0.1.0",
