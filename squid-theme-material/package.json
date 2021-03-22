@@ -1,6 +1,6 @@
 {
   "name": "squid-theme-material",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "dist": "tsc",
     "watch": "tsc -w"
